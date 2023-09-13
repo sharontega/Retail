@@ -3,7 +3,7 @@ The project consists of two datasets, one with information of the year and month
 The data was cleaned using microsoft_excel
 
 
-Insight
+<h2>Insight</h2>
 
 
 •	Top products with the highest return value are Basket and Art & sculpture
@@ -31,7 +31,9 @@ Insight
 
 
 
-Recommendation
+<h2>Recommendation</h2>
+
+
 •	Manger should look into basket and art & sculpture to know why they are the most returned
 
 
