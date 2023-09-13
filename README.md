@@ -4,19 +4,37 @@ The data was cleaned using microsoft_excel
 
 
 Insight
+
+
 •	Top products with the highest return value are Basket and Art & sculpture
+
+
 •	Basket and Art & sculpture has a high total net sale compared to the other product
+
+
 •	Gift basket has no discount and Easter has low discount and are both performing low
+
+
 •	Sales are usually higher between October and December
+
+
 •	Returns are on the rise each year
+
+
 •	Sales has been on the rise each year
+
+
 •	Returns are high around march, may, July, October, December
+
+
 •	Discounts are high around November and December
 
 
 
 Recommendation
 •	Manger should look into basket and art & sculpture to know why they are the most returned
+
+
 •	More discount should be given to Easter and gift basket to increase sales
 
 
